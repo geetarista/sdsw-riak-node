@@ -1,0 +1,18 @@
+{
+  "name": "sdsw-riak-node",
+  "version": "0.0.1",
+  "author": "Robby Colvin <geetarista@gmail.com>",
+  "description": "Notes for Riak from Seven Databases in Seven Weeks",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nodejitsu/http-server.git"
+  },
+  "dependencies" : {
+    "riak-js": "*"
+  },
+  "devDependencies": {},
+  "license": "MIT",
+  "engine": {
+    "node": ">=0.6"
+  }
+}
